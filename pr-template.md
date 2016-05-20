@@ -4,6 +4,10 @@
 
 ## 画面
 
+Before | After
+--- | ---
+![image]() | ![image]()
+
 ## BC Breaks
 
 - [ ] インターフェイスの変更
